@@ -274,6 +274,7 @@
     <Compile Include="Assets\Environment\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\Environment\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
     <Compile Include="Assets\Scripts\CharacterAnimator.cs" />
+    <Compile Include="Assets\Scripts\CharacterCombat.cs" />
     <Compile Include="Assets\Scripts\Controllers\CameraController.cs" />
     <Compile Include="Assets\Scripts\Controllers\EnemyController.cs" />
     <Compile Include="Assets\Scripts\Controllers\PlayerController.cs" />
